@@ -5,3 +5,4 @@ comment for helping commands
 logout feature added
 
 Click here to logout
+fix deployment bugs
