@@ -3,9 +3,7 @@ class:btech
 grade:a
 rollno:1828421001
 email:abhi@harman.com
-<<<<<<< HEAD
-changes made by abhi is here
-=======
-my changes
-changes made by some one 
->>>>>>> bugfix/logout
+
+my changes made by some one 
+
+
